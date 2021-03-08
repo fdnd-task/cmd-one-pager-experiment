@@ -5,12 +5,14 @@ Voor de opdracht CMD-huisstijl-vergelijking ontwerp je op basis van de oude en n
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
 
-Leertaak: {Beschrijving van de leertaak}. Deze leertaak hoort bij {sprint # "titel van de sprint}. Dit is een {niveau van de opdracht} die je {individueel, in team} uitvoert voor {opdrachtgever}
+Leertaak: Maak een one-page actie site op basis van een bestaande huisstijl.
+Deze leertaak hoort bij sprint 4 "The Campaign".
+Dit is een experimentele taak.
 
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
 
-Vergelijk de oude en nieuw uihsstijl van CMD door dezelfde pagina te ontwerpen.
+Vergelijk de oude en nieuw huisstijl van CMD door dezelfde pagina te ontwerpen met beide stijlen.
 
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
@@ -21,7 +23,7 @@ Vergelijk de oude en nieuw uihsstijl van CMD door dezelfde pagina te ontwerpen.
 *De werkwijze volgt de fasering van de Development Life Cycle.*
 
 Huisstijl analayse oude en nieuwe stijl.
-Toepassen op dezelfde content. 
+Toepassen op dezelfde content.
 
 
 Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
