@@ -1,7 +1,6 @@
-# {Naam}
+# CMD huisstijl vergelijking
 
-De conventie voor naamgeving is opdrachtgever-opdracht-ondersteuningsniveau
-Topics: opdrachtgever-naam, semester-naam, sprint-naam, niveau-naam
+Voor de opdracht CMD-huisstijl-vergelijking ontwerp je op basis van de oude en nieuwe huisstijl van CMD een pagina. Wat is eht verscihl tussen de huhisstijlen en welke vind je het beste werken?
 
 ## Context
 *Bij welke sprint hoort deze leertaak en welk niveau heeft deze leertaak.*
@@ -11,8 +10,7 @@ Leertaak: {Beschrijving van de leertaak}. Deze leertaak hoort bij {sprint # "tit
 ## Briefing
 *In de briefing staat wat de opdracht is en wat de opdrachtgever wil.*
 
-{Beschrijf de opdrachtgever}
-{Beschrijf de opdracht}
+Vergelijk de oude en nieuw uihsstijl van CMD door dezelfde pagina te ontwerpen.
 
 ## Doel van deze opdracht
 *Wat leer je in deze taak.*
@@ -22,7 +20,9 @@ Leertaak: {Beschrijving van de leertaak}. Deze leertaak hoort bij {sprint # "tit
 ## Werkwijze
 *De werkwijze volgt de fasering van de Development Life Cycle.*
 
-{geef de opdracht, in meer of mindere mate van sturing afhankelijk van het niveau van de taak}
+Huisstijl analayse oude en nieuwe stijl.
+Toepassen op dezelfde content. 
+
 
 Deze opdracht gaat over alle fases van de DLC [analyseren](#analyseren), [ontwerpen](#ontwerpen), [bouwen](#bouwen), [integreren](#integreren) en [testen](#testen).
 
